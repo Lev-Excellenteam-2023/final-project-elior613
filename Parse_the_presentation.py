@@ -1,6 +1,6 @@
 from pptx import Presentation
 
-presentation = Presentation("C:\machine learning.pptx")
+presentation = Presentation("C:\Accounts.pptx")
 title_and_content = {}
 
 for slide in presentation.slides:
